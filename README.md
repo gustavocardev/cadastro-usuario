@@ -1,6 +1,6 @@
 # API REST de Gerenciamento de Usuários
 
-Este projeto consiste em uma API RESTful desenvolvida em **Java** com **Spring Boot**
+Este projeto consiste em uma API REST desenvolvida em **Java** com **Spring Boot**
 
 ## 🚀 Tecnologias Utilizadas
 
